@@ -1,10 +1,784 @@
 {
   "mods": [
     {
+      "file": "BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "hash": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
+    },
+    {
+      "file": "ChatImage-1.4.7+1.21.0+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/ChatImage-1.4.7+1.21.0+neoforge.jar",
+      "hash": "baa65370bb0ae489a758e8fc85772181de0485ee76e044542a4d5b8f34357336"
+    },
+    {
+      "file": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "hash": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+    },
+    {
+      "file": "CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+      "hash": "4c4a95ca706e1aec41145b2db32737f2aebf1fdedefda0b35b651cad3fa4abaf"
+    },
+    {
+      "file": "CreateDragonsPlus-1.10.0b.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/CreateDragonsPlus-1.10.0b.jar",
+      "hash": "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66"
+    },
+    {
+      "file": "DnDesires-1.21.1-2.3a-BETA.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/DnDesires-1.21.1-2.3a-BETA.jar",
+      "hash": "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
+    },
+    {
+      "file": "Emojiful-Neoforge-1.21-5.2.2-all.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Emojiful-Neoforge-1.21-5.2.2-all.jar",
+      "hash": "a12bcd3a6ece119ea7f7a014ec2de57fdf51fffa8789fc9ac05fde7a638abf36"
+    },
+    {
+      "file": "FarmersDelight-1.21.1-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/FarmersDelight-1.21.1-1.3.1.jar",
+      "hash": "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4"
+    },
+    {
+      "file": "ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar",
+      "hash": "1fffe12e3e8343ef52d306ee29f7d6f6724d47a185a375c4a3c75aab3894c68d"
+    },
+    {
+      "file": "GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "hash": "120f5971e1998337b81205934b55e29c70f4891c6254df616e4391ed94a511cf"
+    },
+    {
+      "file": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "hash": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
+    },
+    {
+      "file": "Ixeris-4.2.0+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Ixeris-4.2.0+1.21.1-neoforge.jar",
+      "hash": "0167d65a228665d3428786627e79a709a729e401dc73dfb878ce07157b44035d"
+    },
+    {
+      "file": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+    },
+    {
+      "file": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "hash": "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
+    },
+    {
+      "file": "Paraglider-neoforge-21.1.5.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Paraglider-neoforge-21.1.5.jar",
+      "hash": "2f084b728383d9de7e9c652c3a92cad086e0b38f131b61f8900d25ba18734e44"
+    },
+    {
+      "file": "PatPat-1.2.4+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/PatPat-1.2.4+1.21.1+neoforge.jar",
+      "hash": "15a78091aba5b48ceed1d1320bddcae64e953e420ba94c72359980ed6b31d9d8"
+    },
+    {
+      "file": "Quark-4.1-478.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Quark-4.1-478.jar",
+      "hash": "e9de380be358722fda089a685f201f3923587aea5299ad766a7dce66870e549b"
+    },
+    {
+      "file": "Scribble-1.5.1+mc1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Scribble-1.5.1+mc1.21-neoforge.jar",
+      "hash": "91f6851e331c5694a92da1b335ec1e8026d962924e6f78ef5bdce8ff2b2fb2f1"
+    },
+    {
+      "file": "Stackable Potions-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Stackable Potions-neoforge-1.21.1-1.0.0.jar",
+      "hash": "98748185796fa8091b890fbe50d05e96f81908292a5821853914542d2c51f641"
+    },
+    {
+      "file": "Terralith_1.21.x_v2.5.8.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Terralith_1.21.x_v2.5.8.jar",
+      "hash": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"
+    },
+    {
+      "file": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "hash": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+    },
+    {
+      "file": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "hash": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6"
+    },
+    {
+      "file": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "hash": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04"
+    },
+    {
+      "file": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "hash": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4"
+    },
+    {
+      "file": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "hash": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0"
+    },
+    {
+      "file": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "hash": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0"
+    },
+    {
+      "file": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "hash": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff"
+    },
+    {
+      "file": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "hash": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02"
+    },
+    {
+      "file": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "hash": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
+    },
+    {
+      "file": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "hash": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
+    },
+    {
+      "file": "Zeta-1.1-40.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/Zeta-1.1-40.jar",
+      "hash": "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+    },
+    {
+      "file": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "hash": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+    },
+    {
+      "file": "aeroworks-1.2.8.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/aeroworks-1.2.8.jar",
+      "hash": "ed3cd7c42db514dfa56c561a03d19dc6a5bba32f906d1305e3916077fedfd353"
+    },
+    {
+      "file": "alltheleaks-1.1.8+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/alltheleaks-1.1.8+1.21.1-neoforge.jar",
+      "hash": "166624c4a978fd1c8f4ad68b07a19d89c1496911450faed4df137c67e1676611"
+    },
+    {
+      "file": "almostunified-neoforge-1.21.1-1.4.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/almostunified-neoforge-1.21.1-1.4.1.jar",
+      "hash": "a8af0fda75e40b0a1e36a6431fa0a6dbff183376bc9f3d53250b0a5cd600c56a"
+    },
+    {
+      "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "hash": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+    },
+    {
+      "file": "architectury-13.0.8-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/architectury-13.0.8-neoforge.jar",
+      "hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+    },
+    {
+      "file": "artifacts-neoforge-13.2.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/artifacts-neoforge-13.2.1.jar",
+      "hash": "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
+    },
+    {
+      "file": "artifactscrafting-1.1.0-RPG.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/artifactscrafting-1.1.0-RPG.jar",
+      "hash": "f466815342c4a59b4d7df04d437cd432cfa092ee4a74481041c0ac626b083f50"
+    },
+    {
+      "file": "athena-neoforge-1.21.1-4.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/athena-neoforge-1.21.1-4.0.5.jar",
+      "hash": "c2071ccfe22cb352c557896a066132a240e3c670fe60b4eaf557dc476746586d"
+    },
+    {
+      "file": "balm-neoforge-1.21.1-21.0.57.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/balm-neoforge-1.21.1-21.0.57.jar",
+      "hash": "ab56a4edaaf7366e6aa5a7446cf4f0d939e844ab0fb0df9b27967916bff0425a"
+    },
+    {
+      "file": "better_lib-neoforge-1.21.1-1.0.109.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/better_lib-neoforge-1.21.1-1.0.109.jar",
+      "hash": "7d567fac31f88f9df39a81f1a02b255c4b1ec3c2ad8719fb391c17b80adfb2ce"
+    },
+    {
+      "file": "bigcontraptions-neoforge-1.0.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/bigcontraptions-neoforge-1.0.jar",
+      "hash": "7ed381abb65639833e8ddb708124c60387823cf3db95bdadc5fceb1b5c37fec8"
+    },
+    {
+      "file": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "hash": "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"
+    },
+    {
+      "file": "cc-tweaked-1.21.1-forge-1.118.0.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/cc-tweaked-1.21.1-forge-1.118.0.jar",
+      "hash": "55f7f33625bdd6cb0435e45779dad5a4a743b4110d02a696e04dcf4464166dc3"
+    },
+    {
+      "file": "chat_heads-0.15.1-neoforge-1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/chat_heads-0.15.1-neoforge-1.21.jar",
+      "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
+    },
+    {
+      "file": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "hash": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+    },
+    {
+      "file": "chunkloaders-1.2.8-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/chunkloaders-1.2.8-neoforge-mc1.21.jar",
+      "hash": "0b7fcb40382df30119a39e0d8ccf372d50d10d84b6a6d9465728f65dffef9cad"
+    },
+    {
+      "file": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/cloth-config-15.0.140-neoforge.jar",
+      "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "file": "cmparallelpipes-neoforge-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/cmparallelpipes-neoforge-2.0.2.jar",
+      "hash": "da852ea8c3588bd775ec038743bb3c8332a68e84fd969d56947f62cbf9fc3e11"
+    },
+    {
+      "file": "collective-1.21.1-8.22.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/collective-1.21.1-8.22.jar",
+      "hash": "a91714404b5c8c7cb192afd0a447af2234fe2ba73ee32a209bdd026362518cbb"
+    },
+    {
+      "file": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+      "hash": "332a7f3df1274cabeae05e9361c41561c42a670787adc7e4b6795961b4721401"
+    },
+    {
+      "file": "connectivity-1.21.1-7.6.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/connectivity-1.21.1-7.6.jar",
+      "hash": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"
+    },
+    {
+      "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "hash": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+    },
+    {
+      "file": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "hash": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826"
+    },
+    {
+      "file": "craftingtweaks-neoforge-1.21.1-21.1.10.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/craftingtweaks-neoforge-1.21.1-21.1.10.jar",
+      "hash": "f1667357c0b8d12486ea27c9fa3a8c9b77df5555bb891517b836bab77a930b28"
+    },
+    {
       "file": "create-1.21.1-6.0.10.jar",
-      "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-1.21.1-6.0.10.jar",
       "hash": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "file": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "hash": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
+    },
+    {
+      "file": "create-cobblestone-deepslate-generators-1.4.6-neoforge+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-cobblestone-deepslate-generators-1.4.6-neoforge+1.21.1.jar",
+      "hash": "4007181739341fa9e8f4f73039c071c02dc6944f9593b4fd5a8cd916f2da476a"
+    },
+    {
+      "file": "create-enchantment-industry-2.3.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-enchantment-industry-2.3.1.jar",
+      "hash": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064"
+    },
+    {
+      "file": "create-renewable-egapples-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-renewable-egapples-1.0.1.jar",
+      "hash": "fbac8a1fcbc6349183f2404033c2705d4e40d985dde0ef7fe9a95ba113d95a95"
+    },
+    {
+      "file": "create-renewable-netherite-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-renewable-netherite-2.0.1.jar",
+      "hash": "2539b4ee086ac448e00217eb693dca35635d6c5f0e587f79b16bf24ea6a1a2d0"
+    },
+    {
+      "file": "create-stones-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-stones-2.0.1.jar",
+      "hash": "05209f9b3b59ff678ae3a5f1bbe8ae0304760c951560897a803bc6bfd44f6114"
+    },
+    {
+      "file": "create-stuff-additions1.21.1_v2.1.0e.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create-stuff-additions1.21.1_v2.1.0e.jar",
+      "hash": "fb5d8f0f88af98b5901ccd9d0f3ad1231f0796366d48ddfe5d537df6257736bd"
+    },
+    {
+      "file": "create_better_villagers-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_better_villagers-1.3.2.jar",
+      "hash": "6601f55c65168141f35a2cc8e9cac96fe52ffa63ba58d4044156de185f416504"
+    },
+    {
+      "file": "create_connected-1.1.16-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_connected-1.1.16-mc1.21.1.jar",
+      "hash": "624415b891764ef57e6979520e0656f1b429f8b4ed69505aee91274c56c4a7fc"
+    },
+    {
+      "file": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "hash": "1882e3102771ed2db4ba7f62c0b500d7a40e4d2c1823700c2fa55a75b77359f9"
+    },
+    {
+      "file": "create_jetpack-forge-5.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_jetpack-forge-5.1.2.jar",
+      "hash": "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985"
+    },
+    {
+      "file": "create_ltab-3.9.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_ltab-3.9.2.jar",
+      "hash": "93ceae221dbfeaa284c5c0db571ae5696198068376ff3b9b3377f952cb5bdc0e"
+    },
+    {
+      "file": "create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
+      "hash": "a7e90ad4810774a9e9378276d2a3f7476678e9b0885fe3713e0d39ce7843a034"
+    },
+    {
+      "file": "create_oxidized-0.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_oxidized-0.1.3.jar",
+      "hash": "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063"
+    },
+    {
+      "file": "create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
+      "hash": "db9c08c425ba8c739fb41800b1568ab29e9d55ef461b4b2961d7bc7227e9e38c"
+    },
+    {
+      "file": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
+      "hash": "09a8d872fcb4ffc10adcbe1e1b9c45886fd3e06a14b60eb275dc695ca43a8e3f"
+    },
+    {
+      "file": "create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+      "hash": "b215b7f55140b9f0f57d5ab3c40f5157c6e91c534ab9b92649b53e1eab11ecc0"
+    },
+    {
+      "file": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "hash": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0"
+    },
+    {
+      "file": "create_vibrant_vaults-0.3.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/create_vibrant_vaults-0.3.2.jar",
+      "hash": "cebf5d1d1793fbfc2ee25b63d6f929910ad04ff72da5c1a6987d33961708cff1"
+    },
+    {
+      "file": "createaddition-1.5.10.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createaddition-1.5.10.jar",
+      "hash": "72653762c1014c33ce151858d1478573dbd74cbc23c74ffe1fb2d71fb73627ee"
+    },
+    {
+      "file": "createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
+      "hash": "fc48e02329e3248ec5c983819192ce3a2c47c9adde233e70f3b0822b466e1374"
+    },
+    {
+      "file": "createbetterfps-1.21.1-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createbetterfps-1.21.1-1.1.4.jar",
+      "hash": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+    },
+    {
+      "file": "createbigcannons-5.11.3+mc.1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createbigcannons-5.11.3+mc.1.21.1.jar",
+      "hash": "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"
+    },
+    {
+      "file": "createcobblestone-1.4.9+neoforge-1.21.1-130.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createcobblestone-1.4.9+neoforge-1.21.1-130.jar",
+      "hash": "681d05b576e063af9157f240b62239b3d80609e9f66fcb59644dc1f57d70ffb3"
+    },
+    {
+      "file": "createdeco-2.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createdeco-2.1.3.jar",
+      "hash": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+    },
+    {
+      "file": "createdieselgenerators-1.21.1-1.3.11.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createdieselgenerators-1.21.1-1.3.11.jar",
+      "hash": "8e5e0cb90cd1fd6336f22994d6c6a31dd56373096275b80910c6983a4dccc864"
+    },
+    {
+      "file": "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "hash": "933ad37b064d8c6005f1f6eb09b3274fe9f5961a6841fb9e7bb65a7bff66f653"
+    },
+    {
+      "file": "createframed-1.21.1-1.7.3.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createframed-1.21.1-1.7.3.jar",
+      "hash": "36a529c807047a1365a57411328780a58c1889b0eb3b5b57af206dd8244c6da3"
+    },
+    {
+      "file": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "hash": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907"
+    },
+    {
+      "file": "createnewbeg-0.1.0-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createnewbeg-0.1.0-1.21.1.jar",
+      "hash": "0947ac8111791abd0b4c4654df7d39ec9df325551846b15746f3f921f74fda84"
+    },
+    {
+      "file": "createnuclear-1.3.2-beta.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createnuclear-1.3.2-beta.3-neoforge.jar",
+      "hash": "0d33c608c756ef5e293f1734403050d64c9651332a311e7aaf01370f40d9b1e3"
+    },
+    {
+      "file": "createoreexcavation-1.21-1.6.8.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/createoreexcavation-1.21-1.6.8.jar",
+      "hash": "d3a2e1a6e65de7e50ae9e279de399b6535da407abc8e6b4688a56f2e461aab99"
+    },
+    {
+      "file": "cupboard-1.21-3.5.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/cupboard-1.21-3.5.jar",
+      "hash": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db"
+    },
+    {
+      "file": "disconnect-packet-fix-neoforge-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/disconnect-packet-fix-neoforge-2.0.1.jar",
+      "hash": "6254f47c73249108706860505f8261b0273aafdc53fe8008aadfca162f0cfd3b"
+    },
+    {
+      "file": "disenchanting_table-merged-1.21.1-5.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/disenchanting_table-merged-1.21.1-5.0.2.jar",
+      "hash": "bdb4f294f968b0e5bb75fe4b9bfe65563add01da2e34df81ba6c65fb7e77dc9c"
+    },
+    {
+      "file": "doubledoors-1.21.1-7.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/doubledoors-1.21.1-7.2.jar",
+      "hash": "947cc425dba61a003fc6cfc9ce6bb87dbef1f2d4561701235eb2fed6073b72ff"
+    },
+    {
+      "file": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "hash": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
+    },
+    {
+      "file": "easy_tweaker-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/easy_tweaker-1.0.0.jar",
+      "hash": "d79c235e9e6866a300589cc1dccb597c9338be47d71f226a0a711c328144111f"
+    },
+    {
+      "file": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "hash": "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
+    },
+    {
+      "file": "entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "hash": "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691"
+    },
+    {
+      "file": "faewulf_lib-neoforge-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/faewulf_lib-neoforge-1.21.1-1.3.2.jar",
+      "hash": "d499543ea883bebc5453e8e855ea221de60891e3a3aad66d94bfa470a326ee1d"
+    },
+    {
+      "file": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "hash": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a"
+    },
+    {
+      "file": "fastitems-neoforge-1.1.0-neoforge+1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/fastitems-neoforge-1.1.0-neoforge+1.21.jar",
+      "hash": "b2f41778f287b742741eb4e1f5448a0ac80b9c70202537713380b0a052faa417"
+    },
+    {
+      "file": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/ferritecore-7.0.3-neoforge.jar",
+      "hash": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+    },
+    {
+      "file": "fusion-1.2.12-neoforge-mc1.21.1(1).jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/fusion-1.2.12-neoforge-mc1.21.1(1).jar",
+      "hash": "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c"
+    },
+    {
+      "file": "gnetum-3.3.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/gnetum-3.3.2.jar",
+      "hash": "61a549fc31c029427a7385fd43cf3fa8173c78714457046809d2da25938d9932"
+    },
+    {
+      "file": "jei-1.21.1-neoforge-19.27.0.340.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "hash": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+    },
+    {
+      "file": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "hash": "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1"
+    },
+    {
+      "file": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "hash": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+    },
+    {
+      "file": "kotlinforforge-5.11.0-all.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/kotlinforforge-5.11.0-all.jar",
+      "hash": "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
+    },
+    {
+      "file": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "hash": "05ebe849611daafe533fc57ed9b5156edfa9157ced04d38a7860b1e2075984b9"
+    },
+    {
+      "file": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "hash": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
+    },
+    {
+      "file": "lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "hash": "f7b80bf86e02a1107fb1600aa6a02608ebcddb140b123a42d5ee199e5db65c8d"
+    },
+    {
+      "file": "mechanicals-1.21.1-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/mechanicals-1.21.1-1.1.0.jar",
+      "hash": "122c03b1b94bcf515056e197bcc14527e4f91306d8e38b76ba195ab64f8e05de"
+    },
+    {
+      "file": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "hash": "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
+    },
+    {
+      "file": "modernfix-neoforge-5.27.5+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/modernfix-neoforge-5.27.5+mc1.21.1.jar",
+      "hash": "5db7569db3d78e55a093df74245fcd3379e4ecb1c90daed604cf6d55aea8e743"
+    },
+    {
+      "file": "monolib-neoforge-1.21.1-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/monolib-neoforge-1.21.1-4.0.2.jar",
+      "hash": "13b3806a99673cdfbc86d675a0c82b380e2f372e8cbacc88d5148885498a46e3"
+    },
+    {
+      "file": "moonlight-neoforge-1.21.1-3.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/moonlight-neoforge-1.21.1-3.0.5.jar",
+      "hash": "c61111393cd8fbae0902d076e55eec6b840a79ec93bb7e655240c6a4fdadd0c6"
+    },
+    {
+      "file": "moreculling-neoforge-1.21.1-1.0.7.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/moreculling-neoforge-1.21.1-1.0.7.jar",
+      "hash": "80e4716a3da53c920ce6e8d122332edc65b91c9f7e4d94bedacac9f35fe32aa0"
+    },
+    {
+      "file": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "hash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+    },
+    {
+      "file": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "hash": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
+    },
+    {
+      "file": "piggyback-neoforge-1.21.1-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/piggyback-neoforge-1.21.1-1.1.1.jar",
+      "hash": "a9712c6d333302297db876beb973e105097e2660a22157c083c94954222c14eb"
+    },
+    {
+      "file": "quick-pack-neoforge-1.3.2+1.21.8.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/quick-pack-neoforge-1.3.2+1.21.8.jar",
+      "hash": "37ed8231c00231ef0a0d6e6737bf9e2be0c11be33a944f1fb36868149413dc13"
+    },
+    {
+      "file": "rechiseled-1.2.4-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
+      "hash": "3316acf7af3a250fd0f2fa5c39540ee4e81c21f7ead29c4107d6a95f47642dd2"
+    },
+    {
+      "file": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+      "hash": "13832eec4d25548658ab93b235889d314b0add4abe7ca0c603db3efdf7664e73"
+    },
+    {
+      "file": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "hash": "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"
+    },
+    {
+      "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+    },
+    {
+      "file": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "hash": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+    },
+    {
+      "file": "sable-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sable-neoforge-1.21.1-1.2.2.jar",
+      "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+    },
+    {
+      "file": "saturn-mc1.21.1-0.1.5(1).jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/saturn-mc1.21.1-0.1.5(1).jar",
+      "hash": "f49f4b51faeb4e9eb7568723fa259c0da1c3460f8019597f04a54c2137b76c32"
+    },
+    {
+      "file": "sawmill-1.21-1.7.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sawmill-1.21-1.7.2-neoforge.jar",
+      "hash": "7a0044e82466103d2638aeac8f9c779040f878eb84536590484265dae35e91f5"
+    },
+    {
+      "file": "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "hash": "a546878ee474237b0535115fec73c9758dd045fb15df7b4bb1cd1b559f077a6a"
+    },
+    {
+      "file": "shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
+      "hash": "36c6ab0fd4b6e684e2d554c67d783067dced9906cfd2b75cae56dd9ede53407a"
+    },
+    {
+      "file": "sit-1.21.1-1.4.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sit-1.21.1-1.4.jar",
+      "hash": "a726385d1c6781f93906dce38d125fe5f4da32b10ae5601bf855773939603c04"
+    },
+    {
+      "file": "sliceanddice-forge-4.2.4.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sliceanddice-forge-4.2.4.jar",
+      "hash": "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
+    },
+    {
+      "file": "sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443"
+    },
+    {
+      "file": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+    },
+    {
+      "file": "sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "hash": "39c48261ae34a26fcfbf0b64303a5afcc205cb40bb70b88941fced268f600e12"
+    },
+    {
+      "file": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "hash": "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02"
+    },
+    {
+      "file": "sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
+      "hash": "78d3edbcb51750d0c5ad5b136042cf920146e41c7423bb6b7fa17318fbd7bdd9"
+    },
+    {
+      "file": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+      "hash": "82013eb16e2b1ab32c87f79b5e258d42d451f42e0cfb6ee9297c21c1296daeb5"
+    },
+    {
+      "file": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedcore-1.21.1-1.4.38.1847.jar",
+      "hash": "0ce9a44538b11472cadf9039deeff7c89cfbe9ca4e32d08692139064da69cdb7"
+    },
+    {
+      "file": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+      "hash": "469d10dc444b503445763ba8288a143a56f01ec2551f3a7741196828505bcd65"
+    },
+    {
+      "file": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+      "hash": "c6f028fcf66cc500e26aa809b532b322f84d6acbc770b34a79359ec4ed6f4d2e"
+    },
+    {
+      "file": "spark-1.10.124-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/spark-1.10.124-neoforge.jar",
+      "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+    },
+    {
+      "file": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "hash": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
+    },
+    {
+      "file": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "hash": "d22b6dfea6922cb534adb9f8c5d43e4a3c27c864e512951df801cb1435a4d4d8"
+    },
+    {
+      "file": "threatengl-neoforge-2.0.4-release.10.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/threatengl-neoforge-2.0.4-release.10.jar",
+      "hash": "e48f523f12557626d966fafb54748ae806930b1680b1cf30c61d9da496dc4064"
+    },
+    {
+      "file": "torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "hash": "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806"
+    },
+    {
+      "file": "trading_floor-3.0.16.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/trading_floor-3.0.16.jar",
+      "hash": "f0aacddb1f8f191f13b79c603e52bd49a6d1cb918078d8a3bdcb2621c88b8d40"
+    },
+    {
+      "file": "trashslot-neoforge-1.21.1-21.1.10.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/trashslot-neoforge-1.21.1-21.1.10.jar",
+      "hash": "c99794130c53f3c26315a29d50dd90437f99571cd740bcecf8334ab1b4db49f9"
+    },
+    {
+      "file": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "hash": "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18"
+    },
+    {
+      "file": "underground_village-neoforge-1.21.1-1.5.7.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/underground_village-neoforge-1.21.1-1.5.7.jar",
+      "hash": "2cbba6df207d445dce78535742e818d4433870b51d0a073d83819b097878f62a"
+    },
+    {
+      "file": "vista-1.21-3.1.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/vista-1.21-3.1.2-neoforge.jar",
+      "hash": "3ae155c4c8683f8a357f5136ce79e1ed8e9d4d149673339f44cb4c924b0fc26f"
+    },
+    {
+      "file": "voicechat-neoforge-1.21.1-2.6.17.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/voicechat-neoforge-1.21.1-2.6.17.jar",
+      "hash": "0981cdb58e540722d68ba444dc4396e2467a8f0b2f346de55c68282c5671d70a"
+    },
+    {
+      "file": "voicemessages-neoforge-1.0.12-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/voicemessages-neoforge-1.0.12-1.21.1.jar",
+      "hash": "eb1d311b67c3a5a7c56aafd243441a5a8afb9f808f262a070f0447f452c61feb"
+    },
+    {
+      "file": "waystones-neoforge-1.21.1-21.1.30.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/waystones-neoforge-1.21.1-21.1.30.jar",
+      "hash": "9b4ccf9e5811ecdebdb0acbf3f3ee3f525df0ab9c1fe9ae3e3ee7c9f52288099"
+    },
+    {
+      "file": "xaerominimap-neoforge-1.21.1-25.3.13.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+      "hash": "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
+    },
+    {
+      "file": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+      "hash": "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
     }
   ]
 }
