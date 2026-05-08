@@ -686,11 +686,6 @@
       "hash": "78d3edbcb51750d0c5ad5b136042cf920146e41c7423bb6b7fa17318fbd7bdd9"
     },
     {
-      "file": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
-      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
-      "hash": "82013eb16e2b1ab32c87f79b5e258d42d451f42e0cfb6ee9297c21c1296daeb5"
-    },
-    {
       "file": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedcore-1.21.1-1.4.38.1847.jar",
       "hash": "0ce9a44538b11472cadf9039deeff7c89cfbe9ca4e32d08692139064da69cdb7"
@@ -699,11 +694,6 @@
       "file": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedstorage-1.21.1-1.5.46.1717.jar",
       "hash": "469d10dc444b503445763ba8288a143a56f01ec2551f3a7741196828505bcd65"
-    },
-    {
-      "file": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
-      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
-      "hash": "c6f028fcf66cc500e26aa809b532b322f84d6acbc770b34a79359ec4ed6f4d2e"
     },
     {
       "file": "spark-1.10.124-neoforge.jar",
