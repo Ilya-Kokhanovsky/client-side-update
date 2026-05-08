@@ -2,11 +2,13 @@
   "mods": [
     {
       "file": "BadOptimizations-2.4.1-1.21.1.jar",
+      "version": "2.4.1",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/BadOptimizations-2.4.1-1.21.1.jar",
       "hash": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
     },
     {
       "file": "ChatImage-1.4.7+1.21.0+neoforge.jar",
+      "version": "1.4.7",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/ChatImage-1.4.7+1.21.0+neoforge.jar",
       "hash": "baa65370bb0ae489a758e8fc85772181de0485ee76e044542a4d5b8f34357336"
     },
