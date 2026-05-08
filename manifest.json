@@ -769,6 +769,11 @@
       "file": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
       "hash": "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
+    },
+    {
+      "file": "notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
+      "hash": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
     }
   ]
 }
