@@ -516,6 +516,11 @@
       "hash": "61a549fc31c029427a7385fd43cf3fa8173c78714457046809d2da25938d9932"
     },
     {
+      "file": "interiors-1.21.1-neoforge-0.6.1.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/interiors-1.21.1-neoforge-0.6.1.jar",
+      "hash": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
+    },
+    {
       "file": "jei-1.21.1-neoforge-19.27.0.340.jar",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
       "hash": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
@@ -770,5 +775,6 @@
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
       "hash": "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
     }
-  ]
+  ],
+  "blacklist": []
 }
