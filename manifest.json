@@ -161,6 +161,11 @@
       "hash": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
     },
     {
+      "file": "aerocreate-client-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/aerocreate-client-1.0.0.jar",
+      "hash": "bb25618fb578df2b0387640b7f4fd5828c2636324c5ca50724b767ac0d2ae97d"
+    },
+    {
       "file": "aeroworks-1.2.8.jar",
       "url": "https://raw.githubusercontent.com/Ilya-Kokhanovsky/client-side-update/main/mods/aeroworks-1.2.8.jar",
       "hash": "ed3cd7c42db514dfa56c561a03d19dc6a5bba32f906d1305e3916077fedfd353"
